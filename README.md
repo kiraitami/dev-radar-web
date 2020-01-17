@@ -8,8 +8,3 @@ Register and find devs
 * Register Devs here: https://kiraitami-dev-radar.netlify.com/
 
 * Use the Mobile App to find registered Devs: https://expo.io/@kuniyoshi/dev-radar
-
-
-
-
-
